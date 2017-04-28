@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sigint1700", "sigint1700.csproj", "{4AC6EA57-41CF-4AA4-935E-5FA6262C35EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC6EA57-41CF-4AA4-935E-5FA6262C35EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC6EA57-41CF-4AA4-935E-5FA6262C35EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC6EA57-41CF-4AA4-935E-5FA6262C35EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC6EA57-41CF-4AA4-935E-5FA6262C35EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
